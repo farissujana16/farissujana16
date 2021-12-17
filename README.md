@@ -1,3 +1,4 @@
+![This is an image](background.jpg)
 ### Hi there 👋, I'm Faris Syafiq Sujana
 ###### I'm Faris from Indonesia, and I a **Software Engineer** with specialized in *backend* code using **PHP** language. I'm so interested with web technology using **Laravel**.
 
