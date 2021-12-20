@@ -4,7 +4,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=farissujana16&show_icons=true&theme=gruvbox)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=farissujana16&langs_count=10&hide=Less,Shell)](https://github.com/farissujana16?tab=repositories)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=farissujana16&langs_count=8&hide=Less,Shell)](https://github.com/farissujana16?tab=repositories)
 
 
 ## 🖥 Experiece
