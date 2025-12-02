@@ -1,10 +1,10 @@
-# ✨ Faris Sujana ✨
+# ✨ Faris Syafiq Sujana ✨
 PHP & JavaScript Enthusiast • CodeIgniter & Laravel Lover  
 Backend Developer • Clean Code Enjoyer • Lifelong Learner  
 
 ---
 
-## 🌷 About Me
+## 👤 About Me
 " Coding is the language I use to translate dreams into reality. "
 
 - 🔧 Focus: Backend Development (Laravel, CodeIgniter)
@@ -20,7 +20,7 @@ Backend Developer • Clean Code Enjoyer • Lifelong Learner
 
 ---
 
-## 🌿 Tech Stack
+## 💻 Tech Stack
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=php,js,html,css,laravel,flutter,bootstrap,tailwind,mysql,git,github,vscode,postman,docker" />
