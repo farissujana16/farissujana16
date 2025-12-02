@@ -1,7 +1,6 @@
 # ✨ Faris Syafiq Sujana ✨
 PHP & JavaScript Enthusiast • CodeIgniter & Laravel Lover  
 Backend Developer • Clean Code Enjoyer • Lifelong Learner
-[![GitHub Streak](https://streak-stats.demolab.com?user=farissujana16&theme=vue-dark&short_numbers=true&date_format=%5BY%20%5DM%20j)](https://git.io/streak-stats)
 
 ---
 
