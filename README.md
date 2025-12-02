@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">PHP & JavaScript Enthusiast • CodeIgniter & Laravel Lover<br>Backend Developer • Clean Code Enjoyer • Lifelong Learner</p>
+<p align="center">PHP & JavaScript Enthusiast • CodeIgniter & Laravel Lover<br>Backend Developer • Clean Code Enjoyer • Lifelong Learner</p>
 
 ###
 
