@@ -15,14 +15,16 @@ Backend Developer • Clean Code Enjoyer • Lifelong Learner
 ---
 
 ## 🌸 GitHub Overview
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=farissujana16&show_icons=true&theme=rose_pine)
+[![GitHub Streak](https://streak-stats.demolab.com?user=farissujana16&theme=vue-dark&short_numbers=true&date_format=%5BY%20%5DM%20j)](https://git.io/streak-stats)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=farissujana16&layout=compact&theme=rose_pine)
 
 ---
 
 ## 🌿 Tech Stack
-<p>
-  <img src="https://skillicons.dev/icons?i=php,js,html,css,laravel,codeigniter,bootstrap,tailwind,mysql,git,github,vscode,postman" />
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=php,js,html,css,laravel,flutter,bootstrap,tailwind,mysql,git,github,vscode,postman,docker" />
+  </a>
 </p>
 
 ---
@@ -32,11 +34,6 @@ Backend Developer • Clean Code Enjoyer • Lifelong Learner
 • 🎟️ ticket – Ticketing Web System  
 • ⏰ reminder_life – Religional reminder
 • 🏫 sma_3 – School Project Landing page
-
----
-
-## ☕ Support Me
-Buy Me a Coffee: https://buymeacoffee.com/
 
 ---
 
