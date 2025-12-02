@@ -32,7 +32,7 @@ Backend Developer • Clean Code Enjoyer • Lifelong Learner
 ## 🌼 Pinned Projects
 • 🎫 Ticket_flutter – Flutter Mobile App  
 • 🎟️ ticket – Ticketing Web System  
-• ⏰ reminder_life – Religional reminder
+• ⏰ reminder_life – Religional reminder  
 • 🏫 sma_3 – School Project Landing page
 
 ---
