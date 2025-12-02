@@ -6,7 +6,7 @@
 
 ###
 
-<h1 align="left">✨ Faris Syafiq Sujana</h1>
+<h1 align="center">✨ Faris Syafiq Sujana ✨</h1>
 
 ###
 
