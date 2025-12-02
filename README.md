@@ -49,8 +49,9 @@
 ###
 
 <br clear="both">
-
-<p align="left">About Me<br>🔭 I’m currently working with PHP, Laravel, CodeIgniter, and JavaScript<br>🌱 Currently learning: Flutter & Modern Web Development<br>💬 Ask me about: Backend Development, Laravel, CI, API Integration<br>📫 Contact me at: farissujana1605@gmail.com<br>📸 Instagram: @farissjna__</p>
+<h3>About Me</h3>
+<hr>
+<p align="left">🔭 I’m currently working with PHP, Laravel, CodeIgniter, and JavaScript<br>🌱 Currently learning: Flutter & Modern Web Development<br>💬 Ask me about: Backend Development, Laravel, CI, API Integration<br>📫 Contact me at: farissujana1605@gmail.com<br>📸 Instagram: @farissjna__</p>
 
 ###
 
