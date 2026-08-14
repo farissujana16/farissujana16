@@ -6,7 +6,7 @@
 
 ###
 
-![GitSkins Animated Hero](https://www.gitskins.com/api/section/hero?username=farissujana16&theme=github-dark&style=aura)
+<h1>Faris Syafiq Sujana</h1>
 
 ###
 
