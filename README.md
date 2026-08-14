@@ -4,17 +4,6 @@
     <img src="https://www.gitskins.com/api/section/hero?username=farissujana16&theme=github-dark" alt="farissujana16 hero section" />
   </picture>
 </p>
-## About Me
-> Editing this section in the inspector.
-Shapes the short profile story and positioning.
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/about?username=farissujana16&theme=github-dark&mode=light" />
-    <img src="https://www.gitskins.com/api/section/about?username=farissujana16&theme=github-dark" alt="farissujana16 about section" />
-  </picture>
-</p>
-## GitHub Stats
-GitSkins stat widgets will use the **GitHub** theme.
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=farissujana16&theme=github-dark&mode=light" />
