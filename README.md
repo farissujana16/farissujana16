@@ -1,11 +1,3 @@
-# farissujana16
-
-> Memorable developer positioning.
-
-**Theme:** GitHub · **Style:** Minimal · **Agent:** Full-Stack Engineer
-
-## Header
-Hi, I'm **farissujana16**. This README is tuned for **personal brand** with a GitHub visual system.
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=farissujana16&theme=github-dark&mode=light" />
