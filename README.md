@@ -16,6 +16,7 @@
     <img src="https://www.gitskins.com/api/section/stack?username=farissujana16&theme=github-dark" alt="farissujana16 stack section" />
   </picture>
 </p>
-<img src="https://raw.githubusercontent.com/farissujana16/farissujana16/output/snake.svg" alt="Snake animation" />
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/farissujana16/farissujana16/output/snake.svg" alt="Snake animation" />
+</p>
 <!-- Sections: Header, About Me, GitHub Stats, Projects, Heatmap, Skills, Connect -->
