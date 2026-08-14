@@ -10,30 +10,16 @@
     <img src="https://www.gitskins.com/api/section/stats?username=farissujana16&theme=github-dark" alt="farissujana16 stats section" />
   </picture>
 </p>
-## Projects
-Highlights repositories as proof of work.
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=farissujana16&theme=github-dark&mode=light" />
     <img src="https://www.gitskins.com/api/section/projects?username=farissujana16&theme=github-dark" alt="farissujana16 projects section" />
   </picture>
 </p>
-## Heatmap
-Animated year-long contribution calendar.
-## Skills
-Selected stack and skill badges will be generated from the GitHub profile and README strategy.
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=farissujana16&theme=github-dark&mode=light" />
     <img src="https://www.gitskins.com/api/section/stack?username=farissujana16&theme=github-dark" alt="farissujana16 stack section" />
-  </picture>
-</p>
-## Connect
-Contact and social links will appear here.
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=farissujana16&theme=github-dark&mode=light" />
-    <img src="https://www.gitskins.com/api/section/social?username=farissujana16&theme=github-dark" alt="farissujana16 social section" />
   </picture>
 </p>
 
